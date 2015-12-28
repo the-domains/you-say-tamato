@@ -1,0 +1,28 @@
+name: You Say Tamato
+favicon: null
+layout_spectrum: 0.3810471096076071
+typography_spectrum: 0.005218106089159846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.18518993677571416
+  lightness: 0.8077313606627285
+  saturation: 0.5922565506771207
+  rhythmicContrast: 0.4942272827029228
+purpose: []
